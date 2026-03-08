@@ -11,7 +11,7 @@ print(data.head())
 print(data.info())
 print(data.describe())
 
-# Features and target
+# Features and target//
 X = data[['weekly_self_study_hours', 'attendance_percentage', 'class_participation']]
 y = data['total_score']
 
