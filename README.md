@@ -24,8 +24,9 @@ The dataset includes the following features:
 ## Result
 The model achieved a Mean Absolute Error of approximately **7.16**.
 
-## Visualization
-The following graph shows the relationship between predicted and actual scores.
+## Model Visualization
+
+This graph shows the relationship between actual scores and predicted scores.
 
 ![Prediction Graph](prediction_graph.png)
 
