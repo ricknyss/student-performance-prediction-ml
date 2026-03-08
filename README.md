@@ -21,6 +21,7 @@ The dataset includes the following features:
 - Scikit-learn
 - Matplotlib
 
+
 ## Result
 The model achieved a Mean Absolute Error of approximately **7.16**.
 
@@ -29,6 +30,17 @@ The model achieved a Mean Absolute Error of approximately **7.16**.
 This graph shows the relationship between actual scores and predicted scores.
 
 ![Prediction Graph](prediction_graph.png)
+
+
+## How to Run
+
+1. Install dependencies
+
+pip install -r requirements.txt
+
+2. Run the model
+
+python student_model.py
 
 ## Author
 Hariom Tiwari
