@@ -39,6 +39,7 @@ This metric measures the average difference between predicted and actual scores.
 
 ## Result
 The model achieved a Mean Absolute Error of approximately **7.16**.
+it will helps to visualize the real time data 
 
 ## Model Visualization
 
