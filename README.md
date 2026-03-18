@@ -46,7 +46,7 @@ it will helps to visualize the real time data
 This graph shows the relationship between actual scores and predicted scores.
 
 ![Prediction Graph](prediction_graph.png)
-
+!!
 
 
 
