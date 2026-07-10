@@ -6,7 +6,7 @@ This project predicts student performance using machine learning techniques. The
 - Data analysis using Pandas
 - Machine learning model using Linear Regression
 - Model evaluation using Mean Absolute Error
-- Visualization of predicted vs actual scores
+- Visualization of predicted vs actual scoressss
 
 ## Dataset
 The dataset includes the following features:
