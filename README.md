@@ -34,7 +34,7 @@ python student_model.py
 ## Model Evaluation!
 
 The model performance is evaluated using Mean Absolute Error (MAE).  
-This metric measures the average difference between predicted and actual scores.
+This metric measures the average difference between predicted and actual scores....
 
 
 ## Result
