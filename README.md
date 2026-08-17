@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 2. Run the model
 
-python student_model.py
+python student_model.py !!
 
 ## Model Evaluation!
 
